@@ -11,7 +11,7 @@ statisches Dokument handelt. Das interaktive Bedienen für die verschiedenen
 Decision Trees kann man durchführen, indem man das Skript runterlädt und in 
 Jupyter Notebook öffnet.  
 Dabei kann es aber passieren, dass Genauigkeitswerte nicht mehr mit dem Text 
-übereinstimmen (Varianz).
+übereinstimmen (Varianz). 
 
 
 
