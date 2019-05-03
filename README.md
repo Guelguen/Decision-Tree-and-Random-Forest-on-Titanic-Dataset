@@ -1,4 +1,4 @@
-### Decision-Tree-and-Random-Forest-on-Titanic-Dataset
+### Decision Tree and Random Forest on Titanic Dataset
 
 Diese Arbeit beschäftigt sich mit Decision Trees und Random Forests. 
 Der Datensatz, der dazu ausgewählt wurde, ist der Titanic-Datensatz `train.csv`,
