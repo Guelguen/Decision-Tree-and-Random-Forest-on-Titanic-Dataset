@@ -13,3 +13,5 @@ Jupyter Notebook öffnet.
 Dabei kann es aber passieren, dass Genauigkeitswerte nicht mehr mit dem Text 
 übereinstimmen (Varianz).
 
+
+
