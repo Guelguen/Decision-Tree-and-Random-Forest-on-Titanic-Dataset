@@ -13,5 +13,9 @@ Jupyter Notebook öffnet.
 Dabei kann es aber passieren, dass Genauigkeitswerte nicht mehr mit dem Text 
 übereinstimmen (Varianz). 
 
+**### WICHTIG ###**  
+Falls die ipynb-Datei nicht angezeigt wird (Github hat manchmal Render-Probleme),
+kann das Notebook hierüber geöffnet werden:
 
+https://nbviewer.jupyter.org/github/Guelguen/Decision-Tree-and-Random-Forest-on-titanic-dataset/blob/master/dt_rf_titanic.ipynb
 
